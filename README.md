@@ -7,5 +7,7 @@
 ## Expériences professionnelles
 - Support informatique | ERACOM | 01.2018 - 01.2019 : Au sein du Helpdesk de l’École Romande d'Arts et Communication lors de
 mon cursus à l'ETML, j'ai consolidé mes compétences en gestion de défis informatiques. Occupant des responsabilités majeures, j'ai perfectionné mes compétences informatiques et ma communication en collaborant étroitement avec les utilisateurs afin de résoudre efficacement leurs problèmes.
+- Support informatique | ERACOM | 01.2018 - 01.2019 : Au sein du Helpdesk de l’École Romande d'Arts et Communication lors de
+mon cursus à l'ETML, j'ai consolidé mes compétences en gestion de défis informatiques. Occupant des responsabilités majeures, j'ai perfectionné mes compétences informatiques et ma communication en collaborant étroitement avec les utilisateurs afin de résoudre efficacement leurs problèmes.
 
 ## Projets
