@@ -16,14 +16,3 @@ Au sein du Helpdesk de l’École Romande d'Arts et Communication lors de mon cu
 ---
 
 ## Projets
-- h
-- h
-- h
-- h
-- hh
-- h
-- hh
-- h
-- h
-- hh
-- h
