@@ -1,5 +1,16 @@
 title: Florian Conti
 logo : /assets/img/profile_pic_Conti_Florian.png
-description: Porfolio
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/florianconti/">LinkedIn</a> |
+  <a href="https://github.com/Florianconti">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  Récemment diplômé en Science des Données de la HEIG-VD, je possède une solide expertise en statistique, en analyse, en extraction et en transformation des données, ainsi qu'en apprentissage automatique. 
+  <br><br>
+  Passionné par la résolution de problématiques concrètes grâce à l’analyse de données, j'utilise mes compétences pour transformer des données brutes en insights exploitables. Mon objectif est d'appliquer ces compétences analytiques à des défis complexes, afin de contribuer à des solutions innovantes, performantes et à forte valeur ajoutée.
+  <br><br>
+  </p>
 #show_downloads : true
 theme: jekyll-theme-minimal
