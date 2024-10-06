@@ -1,7 +1,7 @@
 # Data scientist / engineer
 
 ## Diplômes et formations
-### Bachelor en science des données | HEIG-VD | 09.2020 - 09.2024 
+### Bachelor en informatique, spécialisation en science des données | HEIG-VD | 09.2020 - 09.2024 
 Ce programme intensif de quatre ans, incluant deux années de spécialisation en science des données, m'a permis d’obtenir des compétences avancées en programmation, en base de données, en analyse et en traitement des données, ainsi qu’en apprentissage automatique. Les projets pratiques, essentiels de mon cursus ont aiguisé ma capacité à mettre en œuvre des compétences théoriques dans des situations concrètes, me permettant de résoudre des problèmes complexes et de fournir des analyses pertinentes.
 
 ### Certificat de capacité en informatique et maturité professionnelle | ETML | 08.2015 - 08.2020
