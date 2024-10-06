@@ -1,7 +1,4 @@
 # Data scientist / engineer
-Récemment diplômé en Science des Données de la HEIG-VD, je possède une solide expertise en statistique, en analyse, en extraction et en transformation des données, ainsi qu'en apprentissage automatique. Passionné par la résolution de problématiques concrètes grâce à l’analyse de données, j'utilise mes compétences pour transformer des données brutes en insights exploitables. Mon objectif est d'appliquer ces compétences analytiques à des défis complexes, afin de contribuer à des solutions innovantes, performantes et à forte valeur ajoutée.
-
----
 
 ## Diplômes et formations
 ### Bachelor en science des données | HEIG-VD | 09.2020 - 09.2024 
