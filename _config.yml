@@ -14,3 +14,6 @@ description:
   </p>
 #show_downloads : true
 theme: jekyll-theme-minimal
+
+remote_theme: null
+footer: false
