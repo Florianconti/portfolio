@@ -16,3 +16,4 @@ Au sein du Helpdesk de l’École Romande d'Arts et Communication lors de mon cu
 ---
 
 ## Projets
+[Projet de visualisation](projects/Projet_de_visualisation/VID_Conti-Florian_Rapport.html)
