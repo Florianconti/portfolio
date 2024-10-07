@@ -37,7 +37,7 @@ algorithmes ML sont testés afin de sélectionner l’algorithme fournissant les
   
 Le travail de bachelor étant confidentiel, l'affiche de présentation uniquement peut-être visionée. </p>
 
-[(Affiche de présentation)](projects/Travail_de_bachelor/TB_IRM_Affiche_Conti_Florian.pdf)
+[Affiche de présentation](projects/Travail_de_bachelor/TB_IRM_Affiche_Conti_Florian.pdf)
 
 
 ### Détection des anomalies dans l'impression rotogravure
@@ -49,8 +49,11 @@ Ce projet du cours "Visualisation des données" à l'HEIG analyse ces bandes en 
   
 L'objectif est de détecter ces anomalies et de comprendre leur lien avec certaines variables du processus. L'analyse, basée sur la méthodologie CRISP-DM, vise aussi à identifier les variables les plus importantes pour simplifier la recherche des causes. </p>
 
-[(Rapport)](projects/Projet_de_visualisation/VID_Conti-Florian_Rapport.html)
+[Rapport](projects/Projet_de_visualisation/VID_Conti-Florian_Rapport.html)
 
 
 ### Analyse intelligente du cycle de sommeil des souris
+<p align="justify">
+Ce projet vise à développer des modèles de machine learning pour analyser les cycles de sommeil chez des souris. Utilisant des données EEG et EMG sur 250 souris collectées sur 4 jours, l'objectif principal est de classifier les états de sommeil des souris (éveillé, REM, NREM). pour cela, plusieurs modèles de machine learning ont été entrainés puis testés pour déterminer quel modèle offre les meilleurs résultats de classification.
+</p>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Timerns/GML_SOURIS)
