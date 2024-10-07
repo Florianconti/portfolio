@@ -35,7 +35,7 @@ reconstruire des images de bonne qualité sans avoir besoin de matériel supplé
 algorithmes ML sont testés afin de sélectionner l’algorithme fournissant les meilleures performances.
 <br><br>
   
-Le travail de bachelor étant confidentiel, l'affiche de présentation uniquement peut-être visionée. </p>
+Le travail de bachelor étant confidentiel, l'affiche de présentation uniquement peut-être visionnée. </p>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](projects/Travail_de_bachelor/TB_IRM_Affiche_Conti_Florian.pdf)
 
@@ -53,7 +53,7 @@ L'objectif est de détecter ces anomalies et de comprendre leur lien avec certai
 
 ### Analyse intelligente du cycle de sommeil des souris
 <p align="justify">
-Ce projet vise à développer des modèles de machine learning pour analyser les cycles de sommeil chez des souris. Utilisant des données EEG et EMG sur 250 souris collectées sur 4 jours, l'objectif principal est de classifier les états de sommeil des souris (éveillé, REM, NREM). Pour cela, plusieurs modèles de machine learning ont été entrainés, optimisés, puis testés pour déterminer quel modèle offre les meilleurs résultats de classification.
+Ce projet vise à développer des modèles de machine learning pour analyser les cycles de sommeil chez des souris. Utilisant des données EEG et EMG sur 250 souris collectées sur 4 jours, l'objectif principal est de classifier les états de sommeil des souris (éveillé, Rapid Eye Movement, Non Rapid Eye Movement). Pour cela, plusieurs modèles de machine learning ont été entraînés, optimisés, puis testés pour déterminer quel modèle offre les meilleurs résultats de classification.
 </p>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Timerns/GML_SOURIS)
