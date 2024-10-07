@@ -24,8 +24,19 @@ Ce projet du cours "Visualisation des données" à l'HEIG analyse ces bandes en 
 L'objectif est de détecter ces anomalies et de comprendre leur lien avec certaines variables du processus. L'analyse, basée sur la méthodologie CRISP-DM, vise aussi à identifier les variables les plus importantes pour simplifier la recherche des causes. [(Rapport)](projects/Projet_de_visualisation/VID_Conti-Florian_Rapport.html)
 
 ### Analyse intelligente des données brutes d'IRM pour éliminer les artefacts des images d'œil
+Ce projet a été abordé dans le cadre de mon travail de bachelor. Il aborde la problématique des artefacts dans l’imagerie par résonance magnétique
+(IRM) oculaire. Les artefacts causés par les mouvements des yeux, tels que les clignements, peuvent
+compromettre la qualité des images et compliquer les analyses diagnostiquesᨊ Actuellement, un dispositif
+de suivi oculaire (Eye Tracker) permet de détecter et de corriger ces artefacts, mais son utilisation entraîne
+des coûts supplémentaires en matériel et en personnel spécialisé.
+L’objectif de ce projet est de développer une nouvelle approche pour détecter automatiquement les
+artefacts, en appliquant des modèles de machine learning (ML) sur les données brutes d’IRM, afin de
+reconstruire des images de bonne qualité sans avoir besoin de matériel supplémentaire. Plusieurs
+algorithmes ML sont testés afin de sélectionner l’algorithme fournissant les meilleures performances.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](projects/Travail_de_bachelor/TB_IRM_Affiche_Conti_Florian.pdf)
+Le travail de bachelor étant confidentiel, l'affiche de présentation uniquement peut-être visionée ci-dessous.
+
+[(Affiche de présentation)](projects/Travail_de_bachelor/TB_IRM_Affiche_Conti_Florian.pdf)
 
 ### Analyse intelligente du cycle de sommeil des souris
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Timerns/GML_SOURIS)
