@@ -16,4 +16,9 @@ Au sein du Helpdesk de l’École Romande d'Arts et Communication lors de mon cu
 ---
 
 ## Projets
-[Projet de visualisation](projects/Projet_de_visualisation/VID_Conti-Florian_Rapport.html)
+### Détection des anomalies dans l'impression rotogravure
+L’impression rotogravure est une technique utilisée pour les tirages de haute qualité sur des supports comme les magazines et emballages. L'image est gravée sur un cylindre et l'encre est transférée sur le papier. Bien que précise, cette méthode peut générer des défauts appelés "bandes", des stries ou rainures sur les cylindres.
+
+Ce projet du cours "Visualisation des données" à l'HEIG analyse ces bandes en impression rotogravure. Ces défauts forcent l'arrêt de l'impression pour remplacer ou réparer le cylindre, entraînant des coûts et des pertes.
+
+L'objectif est de détecter ces anomalies et de comprendre leur lien avec certaines variables du processus. L'analyse, basée sur la méthodologie CRISP-DM, vise aussi à identifier les variables les plus importantes pour simplifier la recherche des causes. [(Rapport)](projects/Projet_de_visualisation/VID_Conti-Florian_Rapport.html)
