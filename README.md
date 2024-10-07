@@ -16,13 +16,6 @@ Au sein du Helpdesk de l’École Romande d'Arts et Communication lors de mon cu
 ---
 
 ## Projets
-### Détection des anomalies dans l'impression rotogravure
-L’impression rotogravure est une technique utilisée pour les tirages de haute qualité sur des supports comme les magazines et emballages. L'image est gravée sur un cylindre et l'encre est transférée sur le papier. Bien que précise, cette méthode peut générer des défauts appelés "bandes", des stries ou rainures sur les cylindres.
-
-Ce projet du cours "Visualisation des données" à l'HEIG analyse ces bandes en impression rotogravure. Ces défauts forcent l'arrêt de l'impression pour remplacer ou réparer le cylindre, entraînant des coûts et des pertes.
-
-L'objectif est de détecter ces anomalies et de comprendre leur lien avec certaines variables du processus. L'analyse, basée sur la méthodologie CRISP-DM, vise aussi à identifier les variables les plus importantes pour simplifier la recherche des causes. [(Rapport)](projects/Projet_de_visualisation/VID_Conti-Florian_Rapport.html)
-
 ### Analyse intelligente des données brutes d'IRM pour éliminer les artefacts des images d'œil
 Ce projet a été abordé dans le cadre de mon travail de bachelor. Il aborde la problématique des artefacts dans l’imagerie par résonance magnétique
 (IRM) oculaire. Les artefacts causés par les mouvements des yeux, tels que les clignements, peuvent
@@ -34,9 +27,14 @@ artefacts, en appliquant des modèles de machine learning (ML) sur les données 
 reconstruire des images de bonne qualité sans avoir besoin de matériel supplémentaire. Plusieurs
 algorithmes ML sont testés afin de sélectionner l’algorithme fournissant les meilleures performances.
 
-Le travail de bachelor étant confidentiel, l'affiche de présentation uniquement peut-être visionée ci-dessous.
+Le travail de bachelor étant confidentiel, l'affiche de présentation uniquement peut-être visionée. [(Affiche de présentation)](projects/Travail_de_bachelor/TB_IRM_Affiche_Conti_Florian.pdf)
 
-[(Affiche de présentation)](projects/Travail_de_bachelor/TB_IRM_Affiche_Conti_Florian.pdf)
+### Détection des anomalies dans l'impression rotogravure
+L’impression rotogravure est une technique utilisée pour les tirages de haute qualité sur des supports comme les magazines et emballages. L'image est gravée sur un cylindre et l'encre est transférée sur le papier. Bien que précise, cette méthode peut générer des défauts appelés "bandes", des stries ou rainures sur les cylindres.
+
+Ce projet du cours "Visualisation des données" à l'HEIG analyse ces bandes en impression rotogravure. Ces défauts forcent l'arrêt de l'impression pour remplacer ou réparer le cylindre, entraînant des coûts et des pertes.
+
+L'objectif est de détecter ces anomalies et de comprendre leur lien avec certaines variables du processus. L'analyse, basée sur la méthodologie CRISP-DM, vise aussi à identifier les variables les plus importantes pour simplifier la recherche des causes. [(Rapport)](projects/Projet_de_visualisation/VID_Conti-Florian_Rapport.html)
 
 ### Analyse intelligente du cycle de sommeil des souris
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Timerns/GML_SOURIS)
