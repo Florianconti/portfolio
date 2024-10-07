@@ -53,7 +53,7 @@ L'objectif est de détecter ces anomalies et de comprendre leur lien avec certai
 
 ### Analyse intelligente du cycle de sommeil des souris
 <p align="justify">
-Ce projet vise à développer des modèles de machine learning pour analyser les cycles de sommeil chez des souris. Utilisant des données EEG et EMG sur 250 souris collectées sur 4 jours, l'objectif principal est de classifier les états de sommeil des souris (éveillé, REM, NREM). pour cela, plusieurs modèles de machine learning ont été entrainés puis testés pour déterminer quel modèle offre les meilleurs résultats de classification.
+Ce projet vise à développer des modèles de machine learning pour analyser les cycles de sommeil chez des souris. Utilisant des données EEG et EMG sur 250 souris collectées sur 4 jours, l'objectif principal est de classifier les états de sommeil des souris (éveillé, REM, NREM). Pour cela, plusieurs modèles de machine learning ont été entrainés, optimisés, puis testés pour déterminer quel modèle offre les meilleurs résultats de classification.
 </p>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Timerns/GML_SOURIS)
