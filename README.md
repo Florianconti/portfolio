@@ -35,8 +35,10 @@ reconstruire des images de bonne qualité sans avoir besoin de matériel supplé
 algorithmes ML sont testés afin de sélectionner l’algorithme fournissant les meilleures performances.
 <br><br>
   
-Le travail de bachelor étant confidentiel, l'affiche de présentation uniquement peut-être visionée. [(Affiche de présentation)](projects/Travail_de_bachelor/TB_IRM_Affiche_Conti_Florian.pdf)
-</p>
+Le travail de bachelor étant confidentiel, l'affiche de présentation uniquement peut-être visionée. </p>
+
+[(Affiche de présentation)](projects/Travail_de_bachelor/TB_IRM_Affiche_Conti_Florian.pdf)
+
 
 ### Détection des anomalies dans l'impression rotogravure
 <p align="justify">
@@ -45,8 +47,10 @@ L’impression rotogravure est une technique utilisée pour les tirages de haute
 Ce projet du cours "Visualisation des données" à l'HEIG analyse ces bandes en impression rotogravure. Ces défauts forcent l'arrêt de l'impression pour remplacer ou réparer le cylindre, entraînant des coûts et des pertes.
 <br><br>
   
-L'objectif est de détecter ces anomalies et de comprendre leur lien avec certaines variables du processus. L'analyse, basée sur la méthodologie CRISP-DM, vise aussi à identifier les variables les plus importantes pour simplifier la recherche des causes. [(Rapport)](projects/Projet_de_visualisation/VID_Conti-Florian_Rapport.html)
-</p>
+L'objectif est de détecter ces anomalies et de comprendre leur lien avec certaines variables du processus. L'analyse, basée sur la méthodologie CRISP-DM, vise aussi à identifier les variables les plus importantes pour simplifier la recherche des causes. </p>
+
+[(Rapport)](projects/Projet_de_visualisation/VID_Conti-Florian_Rapport.html)
+
 
 ### Analyse intelligente du cycle de sommeil des souris
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Timerns/GML_SOURIS)
